@@ -1,0 +1,3 @@
+/home/merklenode/Desktop/desk2.0/BlockchainPoWProject/build/CMakeFiles/BlockchainPoW.dir
+/home/merklenode/Desktop/desk2.0/BlockchainPoWProject/build/CMakeFiles/edit_cache.dir
+/home/merklenode/Desktop/desk2.0/BlockchainPoWProject/build/CMakeFiles/rebuild_cache.dir
